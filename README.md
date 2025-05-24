@@ -23,3 +23,4 @@ Styling: Tailwind CSS
 
 Icons & UI: Lucide, shadcn/ui
 
+CHECK THE APP: https://chatbot-ui-theta-livid-90.vercel.app/
